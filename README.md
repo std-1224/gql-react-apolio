@@ -1,14 +1,14 @@
-# ⚡️ Boilerplate: Frontend with React + GraphQL + Apollo
+# ⚡️ : Frontend with React + GraphQL + Apollo
 
 This project is an easy and fast way to start new projects in JavaScript. 
 The main goal is to provide two repositories: one for the backend and one for the frontend application. 
 
-This repository is for the frontend and is designed to work with another boilerplate: [the backend](https://github.com/didaquis/boilerplate-backend-node-graphql-mongodb)
+This repository is for the frontend and is designed to work with another : [the backend](https://github.com/didaquis/-backend-node-graphql-mongodb)
 
-If you prefer it, you can use one of these boilerplates without using the other! Feel free to explore any ideas like developing your own backend in PHP or your frontend in Angular, for example.
+If you prefer it, you can use one of these s without using the other! Feel free to explore any ideas like developing your own backend in PHP or your frontend in Angular, for example.
 
 
-### 🎁 What is included on the frontend boilerplate?
+### 🎁 What is included on the frontend ?
 Technologies used are: React + GraphQL + Apollo Client + Bootstrap 4
 
 **✨ These are some of the highlights:** 
@@ -20,7 +20,7 @@ Technologies used are: React + GraphQL + Apollo Client + Bootstrap 4
 ✅ If you don't like Bootstrap, it's easy to implement any other one UI library or use your own CSS  
 
 ### 📝 Frontend Requirements
-* Backend must be running. I recommend use my [backend boilerplate](https://github.com/didaquis/boilerplate-backend-node-graphql-mongodb)
+* Backend must be running. I recommend use my [backend ](https://github.com/didaquis/-backend-node-graphql-mongodb)
 * Node.js 18.15 or higher
 
 ### 📚 How to run the application?
